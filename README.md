@@ -3,7 +3,7 @@
 
 # NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks
 
-This repository is the original implementation and contains required scripts to reproduce results from our paper **NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks** that has been accepted to CVPR 2020 (oral).<br>
+This repository is the original implementation and contains required scripts to reproduce results from our paper **NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks** that has been accepted to *CVPR 2020 (oral)*.<br>
 Authors: [Eugene Lee](eugenelet.github.io) and [Chen-Yi Lee](http://www.si2lab.org/faculty)
 
 
