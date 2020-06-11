@@ -1,0 +1,12 @@
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_0_eff_c10 --pretrain 0 --plot
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_2_eff_c10 --pretrain 2 --plot
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_5_eff_c10 --pretrain 5 --plot
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_10_eff_c10 --pretrain 10 --plot
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_30_eff_c10 --pretrain 30 --plot
+python3 list_architecture.py  --plot --model vgg --dataset CIFAR10 --prune_fname vgg_60_eff_c10 --pretrain 60 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_0_eff_c100 --pretrain 0 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_2_eff_c100 --pretrain 2 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_5_eff_c100 --pretrain 5 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_10_eff_c100 --pretrain 10 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_30_eff_c100 --pretrain 30 --plot
+python3 list_architecture.py  --plot --model mobilenetv2 --dataset CIFAR100 --prune_fname mobilenetv2_60_eff_c100 --pretrain 60 --plot
