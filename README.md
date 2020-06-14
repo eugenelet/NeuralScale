@@ -226,11 +226,11 @@ NeuralScale can be applied to various architecture where the implementation are 
 ## Citation
 If you find this code useful you can cite us using the following bibTex:
 ```
-@InProceedings{Lee_2020_CVPR,
-author = {Lee, Eugene and Lee, Chen-Yi},
-title = {NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@inproceedings{lee2020neuralscale,
+  title={NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks},
+  author={Lee, Eugene and Lee, Chen-Yi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1478--1487},
+  year={2020}
 }
 ```
